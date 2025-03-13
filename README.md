@@ -1,12 +1,16 @@
 # REST API
 
-- API de transações financeiras
+- API para gerenciamento transações
 
 ## Stacks :robot:
 
-- Node
-- Typescript
-- Zod
+- [Nodejs](https://nodejs.org/pt/learn/getting-started/introduction-to-nodejs)
+- [Typescript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+- [Zod](https://zod.dev/)
+- [Fastify](https://fastify.dev/docs/latest/)
+- [Knexjs](https://knexjs.org/guide/)
+- [SQLite3](https://www.sqlite.org/)
+- [Dotenv](https://www.npmjs.com/package/dotenv)
 
 ## Features
 
