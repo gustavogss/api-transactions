@@ -1,6 +1,6 @@
 # REST API
 
-- API para gerenciamento transações
+- API para gerenciamento de transações
 
 ## Stacks :robot:
 
