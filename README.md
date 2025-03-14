@@ -20,3 +20,18 @@
 - [x] O usuário deve poder obter informações sobre uma única transação
 - [ ] O sistema deve identificar o usuário entre as requesições
 - [x] A transação pode ser do tipo: crédito ou débito
+
+## Routes
+
+- GET /transactions
+- GET ID /transactions/id
+- POST /transactions
+
+  ```body.json
+  {
+    "title":"Freelancer",
+    "amount": 1000
+  }
+  ```
+
+- SUMMARY /transactions/summary
